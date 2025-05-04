@@ -1,0 +1,67 @@
+{"cookies":[
+    {
+        "domain": ".nseindia.com",
+        "expirationDate": 1746375329.358402,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "bm_sv",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "7260AABEC0CD1BA1DA8A929866AD251A~YAAQtGnTF69P+HqWAQAAheqpmxtbTDwcvpo03ER97ppi3wI4Tk3ujQxNWreAzksvD6AYskQXT+kNQNOTvl0rybYLEilmPabOfPadmlyxjJiFAPapjHLr0Z1g34JyKcHSaedwGzoOJJ03YwMRCSfBtCfoUd0XhkPrdAG92Bv/MXT+M26CBHYjuXe0YDiIrvIIy1+cBESCv6BBUnMYMAW5Qai8lYyBGenJWs3fEPifZ+ET4Lw36mGoadePgVvnwUL2SoHH~1"
+    },
+    {
+        "domain": ".nseindia.com",
+        "expirationDate": 1746371727.611706,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "AKA_A2",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "A"
+    },
+    {
+        "domain": ".nseindia.com",
+        "expirationDate": 1777895209.989461,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_abck",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "215D86B951EC22596ED01D90AEA38703~0~YAAQtGnTF2YT+HqWAQAAGM4emw1qUWP0aZojIgJyjdlPThEqL3+GEjTsdeK4+dSELpu5EHzOyFBwRDA6Dpi87GvgaqVaMW5acvTaeRKq321mkVaz3iiCyLi4M1Tmo7V3pE1e559TaC2SxYsFgc2r5b0GZEQyQRHw9/dxxZqfWx2P70ataKr5Sdn7MQL+VxGdDhaSIPLDx2vyY9gDfAEjZf3vk46fhxacJKQCfGN6SgZcbL/KBFoJEs7EwF+yGawbbZWy1PHd7blY21+BzJbADQhfGoLVVLbTHntNZ9gDNDT7ERoROEQ3hFtawSHlWUmNfzZC134OJCoHZFmFTja88YQo/8Sjr9UU3WZAR0noBLVOQzrmefMwo+QVjeO+NphTyMIcMTn3kuz3AmFlmNqj6xOJ7di9raogio/2cWQhb3uIgBe/uEiH0gpBqoK62tT7bGdOhX+mUrmdlAW5YObtvy8X6VWFzUdHjPkptk0DfoRhNNAiptV0f0TZXolpL1VB1o1Vsrf49hP33YL1oIuCzlu7DamdSHxLdteUaUW+seNp/8JaB6xO673D3K1chq28VWDow8h8Yfe+EkQ=~-1~-1~-1"
+    },
+    {
+        "domain": "www.nseindia.com",
+        "expirationDate": 1746375327.611548,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "nseappid",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJhcGkubnNlIiwiYXVkIjoiYXBpLm5zZSIsImlhdCI6MTc0NjM2ODEyNywiZXhwIjoxNzQ2Mzc1MzI3fQ.Zl0g_qRzQ8m5GoBlkQPDBvISIdm4Bro7nNFMaBpH9wQ"
+    },
+    {
+        "domain": "www.nseindia.com",
+        "expirationDate": 1746375327.6113,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "nsit",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "IHdJ_CrppmlxXVvSZaQFITFK"
+    }
+]}

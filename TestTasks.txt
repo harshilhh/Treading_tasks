@@ -1,0 +1,30 @@
+# Hello, Sending some tasks to do, if you have any questions or difficulties then let us know.
+
+
+1. Write a code to get two years data (1st jan 2021 to 31st dec 2022) of 15 minute interval for symbol: BTCUSD for any category,
+output result format: pandas dataframe, convert timestamp to datetime with IST timezone and set datetime column as dataframe index,
+and add VWAP and MACD columns (check https://github.com/twopirllc/pandas-ta for vwap and macd calculations)
+
+Documentation:
+https://bybit-exchange.github.io/docs/v5/market/kline
+
+2. Write code to scrape option chain for given symbol and expiry date from NSE new website and export it to excel
+url: https://www.nseindia.com/option-chain
+
+3. Same as 1 but get data for 5 symbols at the same time using threading/multiprocessing
+symbols: BTCUSD, ETHUSD, BITUSD, SOLUSD, XRPUSD
+
+
+4. Get dividend date information from here, https://www.boerse-frankfurt.de/equity/adidas-ag/company-details,
+without using selenium or other browser automation tool, keep symbol as parameter for fetching data
+
+5. Write a code to get public live order book data for BTCUSDT spot over web socket connection
+
+documentation:
+https://bybit-exchange.github.io/docs/v5/ws/connect
+
+# use empty string as api key and secret, it's ok if authentication fails, we still receive data as it is public endpoint
+api_key = ""
+api_secret = ""
+
+websocket url = 'wss://stream.bybit.com/v5/public/spot'
